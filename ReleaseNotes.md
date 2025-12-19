@@ -9,3 +9,4 @@
 
 ### changed
 - License updated to EUPL 1.2
+- GitLab group ID on job parameter is now string
